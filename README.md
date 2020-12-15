@@ -21,7 +21,7 @@ You should modify path which will contain images.
   
 **Sample videos are like below.**
   
-[![Carla_data_making](https://youtu.be/lvRUbiX5r1U.jpg)](https://youtu.be/lvRUbiX5r1U)
+<iframe width="560" height="315" src="https://youtu.be/lvRUbiX5r1U.jpg" frameborder="0" allowfullscreen></iframe>
   
 ## Training with dataset
 
