@@ -21,7 +21,7 @@ You should modify path which will contain images.
   
 **Sample videos are like below.**
   
-![](./_include/video.html)
+{% include video.html id="https://www.youtube.com/watch?v=lvRUbiX5r1U&feature=youtu.be" %}  
   
 ## Training with dataset
 
