@@ -21,7 +21,7 @@ You should modify path which will contain images.
   
 **Sample videos are like below.**
   
-[![carla_get_data](https://www.youtube.com/watch?v=lvRUbiX5r1U&feature=youtu.be.jpg)](https://youtu.be/lvRUbiX5r1U?t=0s) 
+[![carla_get_data](https://www.youtube.com/vi/lvRUbiX5r1U/0.jpg)](https://youtu.be/lvRUbiX5r1U?t=0s) 
   
 ## Training with dataset
 
