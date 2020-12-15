@@ -21,7 +21,7 @@ You should modify path which will contain images.
   
 **Sample videos are like below.**
   
-<iframe width="560" height="315" src="https://youtu.be/lvRUbiX5r1U.jpg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/lvRUbiX5r1U" frameborder="0" allowfullscreen></iframe>
   
 ## Training with dataset
 
